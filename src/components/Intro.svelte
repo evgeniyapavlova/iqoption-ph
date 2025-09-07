@@ -17,7 +17,7 @@
 			style="max-width: 800px; margin: 0 auto; text-align: center; padding: 140px 0 100px;"
 		>
 			<h1>
-				IQ Option Philippines:<br /> Pag-trade, Pag-login, Pag-sign Up, Ano Ito, Paano Gumagana
+				<span>IQ Option Philippines:</span><br /> Pag-trade, Pag-login, Pag-sign Up, Ano Ito, Paano Gumagana
 			</h1>
 		</div>
 	</section>

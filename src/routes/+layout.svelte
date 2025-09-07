@@ -51,11 +51,4 @@
 		flex-direction: column;
 		min-height: 100vh;
 	}
-	.wrap {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		height: 100vh;
-		width: 100vw;
-	}
 </style>
