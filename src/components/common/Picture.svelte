@@ -9,5 +9,5 @@
 	{#each ['avif', 'webp', fallbackFormat] as format}
 		<source type="image/{format}" srcset="{base}/images/content/{basePath}.{format}" />
 	{/each}
-	<img src="{basePath}.{fallbackFormat}" {alt} />
+	<img src="{base}/images/content/{basePath}.{fallbackFormat}" {alt} />
 </picture>

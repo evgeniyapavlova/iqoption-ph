@@ -165,30 +165,3 @@
 		<li>Puwedeng mas malaki ang panganib dahil sa mataas na leverage</li>
 	</ul>
 </section>
-
-<style>
-	li b:first-child {
-		display: block;
-	}
-
-	.iframe-wrap {
-		padding-top: 35px;
-	}
-
-	.iframe-container {
-		display: flex;
-		justify-content: center;
-		min-height: 950px;
-		margin-left: -4px;
-		margin-right: -4px;
-	}
-	iframe {
-		width: 100%;
-	}
-
-	@media screen and (max-width: 400px) {
-		.iframe-wrap {
-			padding: 0 12px;
-		}
-	}
-</style>
