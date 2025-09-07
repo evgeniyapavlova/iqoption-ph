@@ -1,98 +1,116 @@
 <script>
-	import ImageWrap from './common/ImageWrap.svelte';
+	import Picture from './common/Picture.svelte';
 </script>
 
-<section>
-	<h2>O que é IQ Option?</h2>
+<section style="padding-top: 60px;">
 	<p>
-		A IQ Option atua oficialmente no mercado financeiro desde 2013. Para uma corretora no mundo
-		atual, esse é um período significativo. Nesse tempo, tornou-se um parceiro confiável e rentável
-		para muitos investidores e traders.
+		Ang <strong>IQ Option</strong> ay lehitimo, secure, at kontroladong platform sa pag-trade online
+		na may milyon-milyong user sa buong mundo. Isa ito sa pinakamagagandang broker sa Pilipinas
+		dahil sa madali itong gamitin at may maraming mapagpipiliang asset at paraan sa pagbabayad para
+		matugunan ang mga pangangailangan ng mga lokal na consumer. Puwede kang mag-trade ng Forex, mga
+		commodity, mga equity, mga binary option, o mga cryptocurrency sa <strong>IQ Option</strong>.
+		Puwede mong gawin ang lahat ng iyong pananaliksik sa market, mag-trade, at pamahalaan ang iyong
+		panganib mula sa iyong desktop, mobile app, o web browser.
 	</p>
+
+	<Picture basePath="image9" />
+
+	<h2>Profile ng Kompanya</h2>
+
+	<p>Isang maikling overview tungkol sa mga pangunahing detalye ng IQ Option:</p>
 
 	<div class="table-wrap">
 		<table>
-			<tr
-				><td>Quartel general</td>
-				<td>The Colony House, 41 Nevis Street, Saint John’s, Antigua and Barbuda</td></tr
-			>
-			<tr
-				><td>Ano de fundação</td>
-				<td>2013</td></tr
-			>
-			<tr
-				><td>Produto Oferecido</td>
-				<td>CFD, opções binárias e digitais com rentabilidade de 92%</td></tr
-			>
-			<tr
-				><td>Moedas suportadas</td>
-				<td>USD, R$BRL, EUR </td></tr
-			>
-			<tr
-				><td>Variedade de métodos de pagamento</td>
-				<td
-					>PIX, Mastercard, Visa, Pic Pay, Boleto Rapido, Neteller, Volet.com, Skrill, Perfect Money</td
-				></tr
-			>
-			<tr
-				><td>Depósito mínimo</td>
-				<td>U$10/R$60</td></tr
-			>
-			<tr
-				><td>Retiradas rápidas</td>
-				<td
-					>Webmoney WMZ, PIX, Mastercard, Visa, Pic Pay, Boleto Rapido, Neteller, Volet.com, Skrill,
-					Perfect Money</td
-				></tr
-			>
-			<tr
-				><td>Retirada mínima</td>
-				<td>U$2/R$10</td></tr
-			>
-			<tr
-				><td>Comércio Mínimo</td>
-				<td>U$1/R$4</td></tr
-			>
-			<tr
-				><td>Tipos de conta</td>
-				<td>Demonstração gratuita, Negociação, VIP</td></tr
-			>
-			<tr
-				><td>Comércio móvel</td>
-				<td>Sim. Para IoS e Android</td></tr
-			>
-			<tr
-				><td>Programa de afiliados</td>
-				<td>Sim.</td></tr
-			>
-			<tr
-				><td>Suporte Eficaz</td>
-				<td
-					>24/7 por chat ao vivo, e-mail <a href="mailto:support@iqoption.com"
-						>support@iqoption.com</a
-					> ou telefone</td
-				></tr
-			>
+			<tr>
+				<td>Feature</td>
+				<td>Mga Detalye</td>
+			</tr>
+
+			<tr>
+				<td>Opisyal na Website</td>
+				<td>iqoption.com</td>
+			</tr>
+			<tr>
+				<td>Headquarters</td>
+				<td>Limassol, Cyprus</td>
+			</tr>
+			<tr>
+				<td>Itinatag noong</td>
+				<td>2013</td>
+			</tr>
+
+			<tr>
+				<td> Lisensya </td>
+				<td>Kontrolado ng CySEC (No. 247/14), para sa mga kliyente sa EU</td>
+			</tr>
+
+			<tr>
+				<td>Mga Iniaalok na Produkto</td>
+				<td>Forex, mga CFD sa Stocks, mga Crypto, mga Commodity, mga ETF, mga Option</td>
+			</tr>
+			<tr>
+				<td>Sinusuportahang Currency</td>
+				<td>USD, EUR, THB, at iba pa</td>
+			</tr>
+			<tr>
+				<td>Mga Paraan sa Pagdeposito</td>
+				<td>Mga bank card, E-wallet, Internet banking</td>
+			</tr>
+			<tr>
+				<td>Minimum na Deposito</td>
+				<td>$10 (~฿325)</td>
+			</tr>
+			<tr>
+				<td>Mga Paraan sa Pag-withdraw</td>
+				<td> Katulad din ng mga paraan sa pagdeposito </td>
+			</tr>
+			<tr>
+				<td>Minimum na Withdrawal</td>
+				<td>$2</td>
+			</tr>
+			<tr>
+				<td>Minimum na Trade</td>
+				<td>$1</td>
+			</tr>
+			<tr>
+				<td>Leverage</td>
+				<td>Hanggang 1:1000 (depende sa asset at uri account)</td>
+			</tr>
+			<tr>
+				<td>Mga Uri ng Account</td>
+				<td>Demo, Standard, VIP, Islamic</td>
+			</tr>
+			<tr>
+				<td>Pag-trade Gamit ang Mobile</td>
+				<td>Sinusuportahan sa Android at iOS (App Store, Google Play)</td>
+			</tr>
+			<tr>
+				<td>Affiliate Program</td>
+				<td>Oo, revenue share hanggang 80%</td>
+			</tr>
+			<tr>
+				<td>Mga Hindi Available na Bansa</td>
+				<td>USA, Canada, Israel, Iran, North Korea, at ilang iba pa</td>
+			</tr>
+			<tr>
+				<td>Customer Support</td>
+				<td>24/7 na live chat, support sa maraming wika</td>
+			</tr>
 		</table>
 	</div>
+	<h2>Ano ang IQ Option Philippines?</h2>
 	<p>
-		Aqui tudo sobre IQ Option! A IQ Option é uma plataforma para negociação de centenas de CFDs e
-		opções binárias. Com os programas de análise mais eficientes e uma equipe altamente qualificada,
-		a IQ Option possui várias premiações e um crescimento contínuo no número de usuários ativos ano
-		após ano. Junte-se a milhões de traders em todo o mundo!
+		Mag-trade sa Pilipinas at international na market sa pinansyal gamit ang iisang IQ Option
+		account. Makatipid ng oras, pera at ng pangangailangang magkaroon ng maraming account sa
+		pamamagitan ng pag-trade sa iisang lugar. Ang kakaunting hadlang sa entry, mga advanced na
+		feature sa pag-chart, customer support sa maraming wika, at content sa pag-aaral ng IQ Option ay
+		ilan lang sa mga benepisyo na maiaalok namin sa mga mahal naming trader. Sa ilang minuto lang,
+		makukumpleto mo ang pag-register, i-verify ang iyong account, at gawin ang una mong trade.
 	</p>
 </section>
 
 <div class="img-wrap">
-	<section>
-		<ImageWrap
-			imageW={1280}
-			imageH={777}
-			path="/iq-award-5-pt.webp"
-			fullImage={[1333, 809]}
-			darkBgr
-		/>
-	</section>
+	<Picture basePath="image8" />
 </div>
 
 <style>
@@ -106,9 +124,11 @@
 	}
 
 	.img-wrap {
-		background-color: #020300;
+		background-color: #1b1817;
 		padding: 40px 0;
-		margin-top: 60px;
+        display: flex;
+        justify-content: center;
+        margin-top: 60px;
 	}
 
 	@media screen and (max-width: 600px) {

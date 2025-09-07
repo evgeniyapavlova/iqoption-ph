@@ -16,14 +16,9 @@
 			class="intro"
 			style="max-width: 800px; margin: 0 auto; text-align: center; padding: 140px 0 100px;"
 		>
-			<h1>IQ Option</h1>
-			<p style="font-size: 18px;">
-				Hoje, negociar é uma das opções para ganhar dinheiro extra sem grandes investimentos.
-				Escolher uma corretora confiável e uma plataforma simples e fácil de entender pode ser
-				crucial, principalmente para iniciantes. Neste artigo você aprenderá <b
-					>como usar IQ Option</b
-				> e como ganhar dinheiro.
-			</p>
+			<h1>
+				IQ Option Philippines:<br /> Pag-trade, Pag-login, Pag-sign Up, Ano Ito, Paano Gumagana
+			</h1>
 		</div>
 	</section>
 </div>

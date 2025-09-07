@@ -1,358 +1,169 @@
 <script>
 	import { iframe_params } from '../lib/constants/reg_link';
-	import ImageWrap from './common/ImageWrap.svelte';
+	import Picture from './common/Picture.svelte';
 </script>
 
 <section>
-	<h3>Ativos</h3>
-	<div class="highlight">
-		Um ponto atrativo é que o valor da transação para qualquer ativo pode começar em US$1.
-	</div>
+	<Picture basePath="image6" />
+	<h2>Mga Trading Platform ng IQ Option</h2>
 	<p>
-		<b>IQ Option o que é</b> e quais ativos podem ser negociados? A lista de produtos financeiros para
-		negociação é bem ampla, incluindo os ativos negociados. Vamos ver alguns deles com mais detalhes:
+		Ang IQ Option ay madaling gamitin sa web, desktop at mobile na mga trading platform. Ang ibig
+		sabihin nito, puwede kang mag-trade kahit kailan at kahit saan mo man gusto. Puwede mong
+		i-access ang mga live na feed ng presyo at interactive na chart. Isa pa, mayroon kang built-in
+		na mahigit sa 20 technical indicator (gaya ng Moving Averages, RSI at Bollinger Bands). Puwede
+		mo ring gamitin ang mga drawing tool para markahan ang mga support at resistance level, tukuyin
+		ang mga trend at markahan ang mga eksaktong oras kung kailan papasok o lalabas sa isang trade at
+		magsagawa ng technical analysis.
 	</p>
-
+	<p>
+		Kasama sa mga karagdagang trading tool ang mga alerto ng presyo para mabantayan ang market,
+		isang economic calendar para maabisuhan tungkol sa mahahalagang event at data ng trend ng
+		community para malaman ang pangkalahatang opinyon ng market. Bilis, lakas at dali ng paggamit,
+		ang mga ito ang dahilan kung bakit isa ang IQ Option sa pinakamahuhusay na option para sa mga
+		trader na naghahangad ng lahat ng ito.
+	</p>
+	<Picture basePath="image11" />
+	<h2>Paano Mag-log in sa IQ Option Philippines</h2>
+	<p>
+		Mabilis lang at hindi maligoy ang pag-login sa iyong account sa IQ Option Philippines, mas gusto
+		mo mang mag-trade sa desktop, mobile device, o gustong magdagdag ng mga ekstrang layer na
+		seguridad.
+	</p>
+	<h3>Pag-login mula sa PC</h3>
+	<p>
+		Nagbibigay ang desktop ng pinakamalakas at pinaka-stable na trading environment para sa mga
+		mabilis at advanced na tool. Sa desktop, puwedeng magbukas ang mga trader ng maraming chart nang
+		sabay-sabay at nag-aalok ng naku-customize na workspace, mga layout na maramihang chart, tumpak
+		na pag-execute ng order, at higit pa para pagandahin pa ang karanasan sa pag-trade.
+	</p>
+	<Picture basePath="image13" />
+	<h3>Mobile na Pag-login</h3>
+	<p>
+		Ang mobile app ng IQ Option ay puwedeng i-download sa iyong smartphone o tablet mula sa App
+		Store o sa Google Play, para sa mga iOS at Android device. Dahil sa app, nagiging madaling
+		dalhin ang mga market saan ka man pumunta, na nagbibigay-daan sa iyong buksan, subaybayan at
+		isara ang iyong mga trade, gumamit ng mga technical indicator, sundan ang mga bukas mong
+		posisyon, magtakda ng mga alerto ng presyo at marami pang iba. Ang lahat ng ito ay available
+		mula sa interface na umuuna sa mobile na dinisenyo para sa mabilis at madaling pag-trade on the
+		go.
+	</p>
+	<h3>Two-Factor Authentication (2FA)</h3>
+	<p>
+		Puwede mong i-secure ang iyong IQ Option account gamit ang 2FA. Kapag na-activate ang two-factor
+		authentication, para ma-access ang account mo, dagdag pa sa iyong password, kailangan din ng
+		isang pangminsanang gamit na code na ipapadala sa iyong mobile phone o authenticator app.
+	</p>
+	<h2>Mga Isyu sa Pag-login</h2>
+	<p>
+		Ang karamihan ng isyu sa pag-login sa IQ Option ay dahil sa paglalagay ng mga maling kredensyal,
+		nalimutang password o na-log out dahil sa hindi matagumpay na entry nang maraming beses.
+		Siguraduhing tamang email at password ang nailagay mo (case sensitive ang mga password) at
+		palaging mag-double check. Kung nalimutan mo ang iyong password, i-click lang ang “Nalimutan ang
+		Password?” sa login page at ire-redirect ka sa page sa pag-reset ng password. Puwede ka ring
+		pigilan ng mahinang koneksyon sa internet sa pag-login sa iyong account, kaya siguraduhing
+		maayos ang iyong koneksyon sa internet.
+	</p>
+	<h2>Paglutas ng Problema</h2>
+	<p>
+		Kung sakaling magkaroon ka ng isyu sa pag-login (halimbawa, mga problema sa mga na-delay na
+		deposito/withdrawal o iba pang feature ng platform), dapat mong i-clear ang cache at cookies na
+		naka-store sa browser dahil maaaring magdulot ang impormasyong ito ng mga problema sa maayos na
+		paggana ng website. Dapat mo ring siguraduhing updated ang iyong browser/mobile app at
+		naka-disable ang mga extension na nagba-block sa mga script o pop-up. Kung tungkol sa mobile
+		device, siguraduhing pinakabagong bersyon ng app ang ginagamit mo dahil aayusin nito ang
+		karamihan sa mga bug. Kung wala sa mga solusyong ito ang nakatulong, kontakin ang 24/7 na
+		customer support ng IQ Option para humingi ng mabilisang tulong.
+	</p>
+	<h2>Pagdeposito sa IQ Option</h2>
+	<Picture basePath="image2" />
+	<p>
+		Posibleng mag-invest ng pera sa iyong IQ Option Philippines account gamit ang isang credit o
+		debit card, kabilang ang Visa o MasterCard. Isa ito sa mga pinakamabilis na paraan para malagyan
+		ng pera sa iyong account. Ang mga pagdepositong ginawa sa pamamagitan ng mga e-wallet ay isa
+		ring mabilis na paraan para maglagay ng pera sa iyong account. Tinatanggap namin ang mga
+		sumusunod na e-wallet: Skrill, Neteller, at WebMoney. Available din ang mga cryptocurrency at
+		bank transfer; pero puwedeng tumagal ng ilang araw bago dumating ang mga deposito sa bangko sa
+		iyong account. Tumatanggap ang IQ Option ng maraming currency, kaya puwede kang maglagay ng pera
+		sa iyong account sa lokal mong currency, kung gusto mo. Ang minimum na halaga ng deposito ay $10
+		USD. Walang sinisingil na mga fee sa iyong mga pagdeposito, pero tandaan na puwedeng maningil
+		ang payment provider ng sarili nitong mga fee para sa serbisyong ito.
+	</p>
+	<h1>Pag-withdraw sa IQ Option</h1>
+	<Picture basePath="image10" />
+	<p>
+		Ang mga pag-withdrawal ay ginagawa sa pamamagitan ng parehong paraan sa pagbayad na ginamit mo
+		sa paglalagay ng fund sa iyong account, bilang bahagi ng mga hakbang para sa anti-money
+		laundering at seguridad ng transaksyon. Minimum na pag-withdraw ay $2 USD. Ang tagal ng
+		pagproseso ay puwedeng mula sa singbilis ng 24 na oras para sa mga e-wallet hanggang sa 3
+		business days para sa mga card at 5 business days para sa mga bank transfer. Isang libreng
+		pag-withdraw bawat buwan, dagdag na 2% para sa bawat karagdagang pag-withdraw sa parehong buwan,
+		hanggang sa maximum na $30.
+	</p>
+	<h2>Mga Fee sa IQ Option</h2>
+	<p>
+		Nagpapanatili ang IQ Option ng transparent na struktura ng fee kaya puwede mong epektibong
+		planuhin ang iyong mga gastusin. Walang sisingilin para sa pagbubukas ng account at pagdeposito
+		ng pera. Sisingilin ang mga hindi aktibong account (walang pag-login sa loob ng 90 araw) ng
+		$10/buwan hanggang sa maging aktibong muli. Puwede mong iwang bukas ang iyong mga position sa
+		magdamag kung gusto mo, pero may malalapat na mga swap fee (na nag-iiba-iba depende sa asset at
+		mga kondisyon ng market). Spread ang pangunahing gastusin sa pag-trade, kaya bigyang-pansin ang
+		mga spread bago ka pumasok o lumabas sa mga trade.
+	</p>
+	<h2>Mga Bonus sa IQ Option</h2>
+	<Picture basePath="image1" />
+	<p>
+		Paminsan-minsan, maaaring magbigay ang IQ Option sa mga bago o kasalukuyang customer ng mga
+		bonus sa pagdeposito o mga trading credit. Puwede nitong palakihin ang available mong balance at
+		magbigay sa iyo ng higit pang flexibility kapag nagte-trade, pero sasailalim ito sa mga
+		kinakailangan sa volume bago ma-withdraw ang anumang profit na kaugnay ng bonus. Maingat na
+		basahin ang mga tuntunin at kundisyon bago tanggapin ang anumang iniaalok na bonus.
+	</p>
+	<h2>Mga Promosyon ng IQ Option</h2>
+	<p>
+		Puwedeng magkaroon ang IQ Option Philippines ng mga trading tournament, pana-panahong promosyon
+		at bonus sa pag-refer. Ang ilan ay bukas para sa lahat ng user, habang partikular lang sa bansa
+		o oras ang ilan. Para hindi mapalampas ang mga iyon, tingnan ang iyong account dashboard o
+		mag-sign up para sa mga email notification.
+	</p>
+	<h2>Affiliate Program ng IQ Option</h2>
+	<p>
+		May dalawang opsyon sa pagkita ang affiliate program ng IQ Option. Nagbabayad ang Revenue Share
+		model ng hanggang 80% ng lifetime revenue mula sa mga na-refer na trader. Puwede magbayad ang
+		CPA (Cost Per Acquisition) model ng hanggang $120 sa bawat aktibong trader. May tulong sa mga
+		affiliate na mga multilingual na resource sa marketing, mga dashboard sa real-time na
+		pagsubaybay at isang account manager. Pinoproseso ang mga bayad tuwing ikalawang linggo, na may
+		mababang minimum na payout na $10, at puwedeng ipadala sa pamamagitan ng Skrill, WebMoney,
+		Bitcoin, Tether, o bank transfer.
+	</p>
+	<h2>Customer Support ng IQ Option</h2>
+	<Picture basePath="image4" />
+	<p>
+		Naglalaan ang IQ Option ng 24/7 na customer service sa pamamagitan ng live na chat, email, at
+		isang malaking Help Center na naglalaman ng maraming artikulo, gabay, at tutorial para sa
+		platform. Mayroon ding multilingual support sa Pilipinas na may opsyong English at Filipino para
+		makahingi ka ng tulong nang mabilis at malinaw hangga't maaari. 24/7 na support ito para
+		matugunan ang mga isyu at makapag-trade ka kaagad-agad.
+	</p>
+	<h2>Mga Detalye sa Pagkontak</h2>
 	<ul>
-		<li>
-			<b>Opções Binárias</b>
-			As opções binárias são derivativos que têm um ativo subjacente, como criptomoedas, pares de moedas,
-			commodities, etc. O rendimento das opções pode chegar a 90% do valor da transação, variando conforme
-			as condições do mercado. Por exemplo, ao prever que o preço de uma ação vai subir e investir US$10/R$60
-			com um tempo de expiração de 1 minuto, você pode ganhar 90% da transação se a previsão estiver
-			correta.
-		</li>
-		<li>
-			<b>Opções Digitais</b>
-			As opções digitais combinam a negociação de opções binárias com um aumento no preço do ativo subjacente.
-			O retorno é calculado com base no quanto o preço se move em relação ao preço de exercício. Quanto
-			maior o movimento dos preços, maior a renda.
-		</li>
-		<li>
-			<b>Commodities</b>
-			As commodities são ativos voláteis frequentemente usados ​​em negociações. Você pode negociar 9
-			commodities na plataforma: Ouro, Prata, Cobre, Gás, Milho, Feijão, Trigo e Petróleo (Brent e WTI).
-		</li>
-		<li>
-			<b>ETFs</b>
-			Os ETFs são ativos para diversificados e considerados uma cesta de ações de diversas empresas.
-			A <b>IQ Option</b> oferece 27 opções de ETF para negociação.
-		</li>
-		<li>
-			<b>Ações</b>
-			A seção de ações inclui 185 ações de empresas globais como Apple, Tesla, Amazon e outras ações
-			negociadas em bolsa de valores. É uma das maiores categorias de ativos na plataforma.
-		</li>
-		<li>
-			<b>Forex</b>
-			A negociação Forex é uma ferramenta clássica e volátil, ideal para negociações de curto prazo.
-			A plataforma oferece 38 pares de moedas, incluindo EUR/USD e USD/GBP e outros pares de moedas que
-			oferecem uma corretora de valores.
-		</li>
-		<li>
-			<b>Criptomoedas</b>
-			Criptomoedas para investir são populares entre os traders devido à sua volatilidade. Na plataforma,
-			você pode negociar 52 das criptomoedas mais conhecidas. Você pode comprar criptomoedas diretamente
-			na plataforma, aproveitando as melhores cotações disponíveis na IQ Option.
-		</li>
-		<li>
-			<b>Índices</b>
-			A plataforma oferece 15 índices de negociação, incluindo índices dos EUA, Hong Kong, Alemanha e
-			outros países. Fique de olho nas notícias econômicas e lucre com a IQ Option.
-		</li>
+		<li>Live Chat – Available sa platform</li>
+		<li>Email – support@iqoption.com</li>
+		<li>Website – iqoption.com</li>
 	</ul>
-
-	<ImageWrap imageW={1280} imageH={741} path="/iq-5-assets-pt.webp" fullImage={[1358, 786]} />
-
-	<h3>Começar a negociar</h3>
-	<p>
-		Para começar a aproveitar todas as vantagens do broker apresentado, basta seguir alguns passos
-		simples. Todos são gratuitos e levam apenas alguns minutos para serem concluídos. Depois disso,
-		você estará pronto para fazer sua primeira negociação. Abra a versão demo diretamente no seu
-		navegador e descubra a IQ Option o que é!
-	</p>
-
-	<ImageWrap imageW={1280} imageH={628} path="/iq-interface-5-pt.webp" fullImage={[1918, 941]} />
-
-	<h4>Cadastro</h4>
-
-	<p>
-		Para começar a negociar, você precisa criar uma conta no IQ Option. Cadastre-se gratuitamente e
-		descubra <b>como funciona o IQ Option</b>! Para começar a negociar na <b>IQ Option</b>, siga
-		estes passos simples:
-	</p>
-
-	<ol>
-		<li>Clique neste link nesta página para acessar o formulário de registro.</li>
-		<li>Preencha seus dados, endereço de e-mail e senha.</li>
-		<li>Escolha o país de residência.</li>
-		<li>Confirme sua conta usando o e-mail que foi enviado para sua caixa de entrada.</li>
-		<li>
-			O sistema irá direcioná-lo para a plataforma web, onde você poderá explorar a interface do
-			site, baixar o aplicativo ou experimentar sua primeira negociação em uma conta demo.
-		</li>
-	</ol>
-
-	<p>Cadastre-se gratuitamente e descubra <b>como funciona o IQ Option!</b></p>
-</section>
-<section class="iframe-wrap" id="registration">
-	<div class="iframe-container">
-		<iframe
-			loading="lazy"
-			id="form-iframe"
-			title="IQ Option registration form"
-			src="https://iqbroker.com/lp/regframe-01-light/pt/{$iframe_params}"
-			frameborder="0"
-			allowfullscreen
-		></iframe>
-	</div>
-</section>
-<section>
-	<!-- <div class="btn-wrap">
-		<a class="button" href="#">Registrar agora</a>
-	</div> -->
-
-	<!-- <ImageWrap imageW={1280} imageH={808} path="/iq-register-5-pt.webp" fullImage={[1150, 726]} /> -->
-
-	<h4>Contas</h4>
-	<p>
-		Após o registro bem-sucedido, o sistema abrirá automaticamente 2 tipos de conta para você.
-		Durante suas operações, você pode alternar entre elas na plataforma. Para isso, clique no saldo
-		da sua conta no canto superior direito da tela e selecione o tipo de conta desejado.
-	</p>
-	<h5>Demo</h5>
-	<div class="highlight">A conta demo permite testar novas estratégias sem riscos.</div>
-
-	<ImageWrap imageW={728} imageH={392} path="/iq-demo-real-5-pt.webp" fullImage={[728, 392]} />
-
-	<p>
-		Comece com uma conta demo e descubra <b>como funciona a IQ Option</b>! A conta demo é gratuita e
-		ilimitada! Reabasteça se necessário na plataforma web ou aplicativo! É importante ressaltar que
-		não há nenhum custo envolvido. Ao abrir esta conta, você receberá automaticamente US$10.000 em
-		fundos de teste. Esses fundos não são reais e não podem ser sacados, nem podem ser obtidos
-		lucros com eles. No entanto, você pode usar esta conta para aprender e praticar com segurança.
-		Como resultado, com uma conta demo você reconhecerá facilmente <b>como usar o IQ Option</b>.
-	</p>
-
-	<h5>Сonta de trading</h5>
-	<p>
-		Uma conta real permite que você faça negociações reais e obtenha lucros reais. Para começar a
-		operar com ela, é necessário fazer um valor depositado usando um método conveniente.
-	</p>
-
-	<div class="highlight">
-		Com um depósito inicial de apenas U$10/R$60, você pode entender como funciona a plataforma e
-		começar a negociar.
-	</div>
-
-	<ImageWrap imageW={723} imageH={426} path="/iq-demo-start-5-pt.webp" fullImage={[723, 426]} />
-
-	<h6>Standard</h6>
-	<p>
-		A conta padrão abre todas as funcionalidades da plataforma para você. Para ativá-la, basta fazer
-		um depósito mínimo de apenas U$10/R$60!
-	</p>
-
-	<h6>VIP</h6>
-	<p>
-		A conta VIP oferece benefícios adicionais, como um gerente pessoal, maior retorno nas
-		negociações binárias e prioridade nos saques. Para se qualificar, é necessário fazer um depósito
-		de valor mínimo específico, que pode ser verificado com o suporte técnico.
-	</p>
-
-	<h5>Verificação de conta da IQ Option</h5>
-	<p>
-		Para garantir a segurança da sua conta e da plataforma contra fraudes, o broker implementa um
-		processo de verificação de identidade para todos os usuários. Esse processo pode levar alguns
-		dias e inclui a verificação do endereço e a confirmação da identidade do trader por meio de
-		documentos, como passaporte ou carteira de motorista, além da verificação do cartão bancário.
-		Para concluir o processo o mais rapidamente possível, basta seguir as instruções na plataforma.
-	</p>
-
-	<ImageWrap imageW={1225} imageH={817} path="/iq-verification-5-pt.webp" fullImage={[1225, 817]} />
-
-	<h4>Plataforma de negociação</h4>
-	<p>
-		A IQ Option oferece aos investidores todas as ferramentas necessárias para negociações
-		eficientes. A própria plataforma, disponível para diferentes dispositivos, garante que você
-		esteja sempre atualizado e possa negociar com conforto.
-	</p>
-
-	<h5>PC</h5>
-	<p>
-		A versão para PC do aplicativo é a solução mais funcional e conveniente para negociar na IQ
-		Option. Baixe gratuitamente!
-	</p>
-	<ImageWrap imageW={1280} imageH={652} path="/iq-interface-2-5-pt.webp" fullImage={[1920, 978]} />
-
-	<h5>Celular</h5>
-	<p>
-		Um aplicativo de negociação móvel é a escolha ideal para quem está sempre em trânsito ou não tem
-		acesso a um PC. Foi eleito o melhor aplicativo móvel de 2023 e pode ser baixado gratuitamente! O
-		aplicativo está disponível para uma variedade de dispositivos Android e iOS, permitindo que você
-		negocie de qualquer lugar com conexão à Internet.
-	</p>
-	<ImageWrap imageW={1124} imageH={447} path="/iq-app-5-pt.webp" fullImage={[1124, 447]} />
-
-	<h5>Web</h5>
-	<p>
-		Você também pode usar a versão web para negociar ou se familiarizar com a corretora. Lembre-se
-		de que ela pode não ter todas as funcionalidades do aplicativo e pode ser mais lenta. Por isso,
-		recomendamos que você baixe o aplicativo gratuitamente!
-	</p>
-
-	<h5>Funcionalidades</h5>
-	<p>
-		Cada plataforma tem seus próprios recursos e capacidades distintas. A IQ Option é uma plataforma
-		de negociação universal para traders iniciantes e experientes com funções para todos os gostos,
-		vamos dar uma olhada mais de perto!
-	</p>
-
-	<h6>Gráficos</h6>
-	<p>
-		A primeira e mais importante parte da análise técnica são as ferramentas de gráficos que exibem
-		cotações em tempo real. Você pode adicionar ferramentas gráficas e indicadores a eles e alterar
-		o tipo e a cor do plano de fundo e das linhas. Você terá acesso a 4 tipos de gráficos de preços
-		de ativos:
-	</p>
-
+	<h2>Pros at Cons</h2>
+	<h3>Pros</h3>
 	<ul>
-		<li>Linear</li>
-		<li>Um bar</li>
-		<li>Velas japonesas</li>
-		<li>Heiken-Ashi</li>
+		<li>Maraming mapagpipiliang asset maraming iba't ibang market</li>
+		<li>Mababang minimum na deposito ($10 USD)</li>
+		<li>User-friendly na platform para sa lahat ng antas ng karanasan</li>
+		<li>Libreng demo account na may $10,000 na virtual na pera</li>
+		<li>Maraming opsyon sa pagbayad at pag-withdraw</li>
 	</ul>
-
-	<p>
-		A diferença entre o preço de compra e venda, conhecida como spread, é um fator crucial na
-		negociação. O preço de um ativo pode ser monitorado em tempo real, facilitando decisões rápidas
-		e informadas.
-	</p>
-
-	<ImageWrap imageW={650} imageH={376} path="/iq-charts-5-pt.webp" fullImage={[650, 376]} />
-
-	<h6>Prazos</h6>
-	<p>
-		Ao criar gráficos de velas e histogramas, é possível ajustar o intervalo de tempo, que
-		representa as variações de preços ao longo de um período específico, variando de 5 segundos a 1
-		mês.
-	</p>
-
-	<ImageWrap imageW={649} imageH={391} path="/iq-timeframe-5-pt.webp" fullImage={[649, 391]} />
-
-	<h6>Ferramentas gráficas</h6>
-	<p>
-		Experimente utilizar as 5 ferramentas disponíveis para adicionar linhas ao gráfico, como linha
-		simples, linha de tendência, linhas verticais e horizontais, nível suporte e resistência, além
-		das linhas de Fibonacci, para desenvolver suas estratégias.
-	</p>
-
-	<ImageWrap imageW={625} imageH={375} path="/iq-lines-5-pt.webp" fullImage={[625, 375]} />
-
-	<h6>Indicadores</h6>
-	<p>
-		A IQ Option oferece uma ampla variedade de indicadores técnicos na aba "Indicadores", incluindo
-		médias móveis, Bandas de Bollinger, MACD, entre outros. Com dezenas de opções disponíveis, você
-		pode escolher os indicadores que mais se adequam à sua estratégia de negociação, seja utilizando
-		vários indicadores simultaneamente ou focando em um único indicador para sua análise técnica.
-	</p>
-
-	<ImageWrap imageW={753} imageH={470} path="/iq-indicators-5-pt.webp" fullImage={[753, 470]} />
-
-	<h6>Ordens</h6>
-	<p>
-		Uma ordem pendente permitirá que você abra ou feche automaticamente uma posição ao preço
-		desejado, de acordo com sua estratégia. As ordens limitadas (Stop Loss e Take Profit)
-		permitir-lhe-ão fechar uma posição quando um nível desejado de lucro ou um certo nível de perda
-		for atingido. Configure os parâmetros do Pedido no painel direito da tela de trabalho.
-	</p>
-
-	<div class="highlight">
-		Abrir uma conta agora mesmo e tenha certeza da comodidade e qualidade da plataforma!
-	</div>
-	<ImageWrap imageW={878} imageH={464} path="/iq-orders-5-pt.webp" fullImage={[878, 464]} />
-
-	<h6>Análise e alertas</h6>
-	<p>
-		Defina alertas no seu dispositivo para não perder seus ganhos. Alertas e notificações informarão
-		se o preço mudar, se o preço atingir sua meta e mantê-lo-ão atualizado sobre quaisquer
-		desenvolvimentos importantes.
-	</p>
-
-	<h6>Gerenciamento de riscos</h6>
-	<p>
-		Não se esqueça do gerenciamento de risco - a principal ferramenta de um trader. Para isso, por
-		exemplo, são necessárias ordens limitadas. Além disso, lembre-se disso:
-	</p>
-
+	<h3>Cons</h3>
 	<ul>
-		<li>Não invista todo o seu capital em um ativo;</li>
-		<li>Abra uma negociação por um valor que você não está disposto a perder;</li>
-		<li>
-			Uma das regras também afirma: não abra uma negociação com valor superior a 5% do seu capital
-			comercial.
-		</li>
-		<li>
-			Qualquer transação envolve um alto risco de perda. Aprenda as regras de comportamento nos
-			mercados financeiros e gestão de risco.
-		</li>
+		<li>Hindi available sa ibang bansa</li>
+		<li>Puwedeng mas malaki ang panganib dahil sa mataas na leverage</li>
 	</ul>
-
-	<ImageWrap imageW={1280} imageH={652} path="/iq-news-5-pt.webp" fullImage={[1920, 978]} />
-
-	<h6>Comunidade de negociação</h6>
-	<p>
-		Com a IQ Option você se torna parte de uma grande comunidade. Na plataforma você pode trocar
-		experiências e simplesmente conversar ao vivo com os traders. Abra-o no painel esquerdo na seção
-		“Bate-papos”. Junte-se ao grupo no Facebook, Twitter, Instagram!
-	</p>
-	<ul>
-		<li>IQ Option Official (<a href="https://twitter.com/IQOption">@IQOption</a>) / Twitter</li>
-		<li>
-			IQ Option (<a href="https://www.instagram.com/iqoption_official/">@iqoption_official</a>) /
-			Instagram
-		</li>
-		<li><a href="https://www.facebook.com/iqoptionportuguese/">IQ Option</a> / Facebook</li>
-	</ul>
-
-	<h4>Depósito</h4>
-	<p>
-		Para aproveitar os benefícios e começar a ganhar seu dinheiro real, é necessário depositar na
-		sua conta um montante mínimo de U$10/R$60 ou mais. A empresa oferece diversos métodos para
-		depósitos e saques, incluindo os sistemas de pagamento eletrónico mais populares e os
-		tradicionais cartões de crédito bancário.
-	</p>
-
-	<ImageWrap imageW={1001} imageH={390} path="/iq-deposit-5-pt.webp" fullImage={[1001, 390]} />
-
-	<ul>
-		<li>PIХ</li>
-		<li>Mastercard</li>
-		<li>Visa</li>
-		<li>Pic Pay</li>
-		<li>Boleto Rapido</li>
-		<li>Neteller</li>
-		<li>Volet.com</li>
-		<li>Skrill</li>
-		<li>Perfect Money</li>
-	</ul>
-
-	<p>
-		Assim que o valor for depositado na conta, você estará pronto para começar a investir e
-		potencialmente aumentar seus rendimentos.
-	</p>
-
-	<ImageWrap imageW={1280} imageH={659} path="/iq-card-deposit-5-pt.webp" fullImage={[1899, 977]} />
-
-	<h4>Retirada</h4>
-	<p>
-		Você pode sacar dinheiro de sua conta da mesma forma que pode recarregá-lo, o que significa que
-		você precisa usar os mesmos métodos. Acesse sua conta pessoal e selecione o menu “retirar
-		fundos”, selecione um método conveniente entre os oferecidos e preencha um pedido de saque. Os
-		saques levam em média de 1 a 3 dias úteis.
-	</p>
-
-	<ImageWrap imageW={882} imageH={397} path="/iq-withdraw-5-pt.webp" fullImage={[882, 397]} />
 </section>
 
 <style>
